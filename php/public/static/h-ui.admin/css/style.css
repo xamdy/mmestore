@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* 你自己的样式 */
+.bk-gray{border:solid 1px #ddd }
+.radius{border-radius:4px; overflow:hidden}
+.size-MINI.radius{ border-radius:3px}
+.size-L.radius{ border-radius:5px}
+.size-XL.radius{ border-radius:6px}
+.round{border-radius:1000px; overflow:hidden}
+.circle{ border-radius:50%; overflow:hidden}
